@@ -1,2 +1,2 @@
 #!/bin/bash
-lls -it .. type -d |tail  
+ls -ltr . -type -d |head -n 10
