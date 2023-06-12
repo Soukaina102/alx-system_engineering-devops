@@ -1,2 +1,2 @@
-#!/bish
-tail -n 1 < iacta >> iacta
+#!/bin bash
+#tail -n 1 < iacta >> iacta
